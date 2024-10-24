@@ -91,31 +91,31 @@ export default function Home() {
       </section>
 
       {/* Testimonials Section */}
-      <section className="bg-blue-600 text-white py-16">
+      <section className="bg-gray-600 text-white py-16">
         <h2 className="text-3xl text-center mb-10">Testimonials</h2>
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 px-5">
-          <div className="p-5 bg-blue-700 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-700 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;The iPhone 15 Pro has changed the way I interact with technology. The
               performance is incredible!&quot;
             </p>
             <h3 className="mt-4 font-bold">- Sarah L.</h3>
           </div>
-          <div className="p-5 bg-blue-700 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-700 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;I love the design and features of my new iPhone. It&apos;s worth every
               penny!&quot;
             </p>
             <h3 className="mt-4 font-bold">- James P.</h3>
           </div>
-          <div className="p-5 bg-blue-700 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-700 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;The camera quality is simply amazing. I can&apos;t believe how good my photos
               look!&quot;
             </p>
             <h3 className="mt-4 font-bold">- Emily R.</h3>
           </div>
-          <div className="p-5 bg-blue-700 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-700 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;I&apos;ve been using iPhones for years, and this one is the best yet!&quot;
             </p>
@@ -125,22 +125,22 @@ export default function Home() {
       </section>
 
       {/* Reviews Section */}
-      <section className="bg-green-700 text-white py-16">
+      <section className="bg-gray-700 text-white py-16">
         <h2 className="text-3xl text-center mb-10">Reviews</h2>
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-5">
-          <div className="p-5 bg-green-800 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-800 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;Best iPhone yet! The performance and camera are top-notch!&quot;
             </p>
             <h3 className="mt-4 font-bold">- TechRadar</h3>
           </div>
-          <div className="p-5 bg-green-800 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-800 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;A solid upgrade with a stunning display and great battery life.&quot;
             </p>
             <h3 className="mt-4 font-bold">- CNET</h3>
           </div>
-          <div className="p-5 bg-green-800 rounded-lg shadow-lg">
+          <div className="p-5 bg-gray-800 rounded-lg shadow-lg">
             <p className="text-xl">
               &quot;Apple has outdone itself with the iPhone 15 Pro!&quot;
             </p>
